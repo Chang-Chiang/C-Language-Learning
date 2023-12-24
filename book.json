@@ -1,0 +1,18 @@
+{
+    "title": "C Language Learning",
+    "author": "Chang Chiang",
+    "description": "C 语言学习总结",
+    "language": "zh-hans",
+    "gitbook": "3.2.3",
+    "plugins": ["github", "-sharing"],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/Chang-Chiang"
+        }
+    },
+    "links": {
+        "sidebar": {
+            "GitHub": "https://github.com/Chang-Chiang"
+        }
+    }
+}
